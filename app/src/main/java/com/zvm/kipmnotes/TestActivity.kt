@@ -9,5 +9,6 @@ class TestActivity : AppCompatActivity() {
         setContentView(R.layout.activity_test)
         print("testing...")
         print("from test branch 2")
+        print("testing...")
     }
 }
