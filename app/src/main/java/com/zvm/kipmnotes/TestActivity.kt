@@ -10,5 +10,6 @@ class TestActivity : AppCompatActivity() {
         print("testing...")
         print("from test branch 2")
         print("testing...")
+        print("from branch3")
     }
 }
